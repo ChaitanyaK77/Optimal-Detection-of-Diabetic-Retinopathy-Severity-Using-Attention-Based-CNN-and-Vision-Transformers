@@ -35,6 +35,7 @@ The dataset contains retinal images labeled according to the severity of diabeti
 - **Validation Set**: `/colored_images_split`
 
 Each folder contains subfolders named `0 - No_DR`, `1 - Mild`, `2 - Moderate`, `3 - Severe`, and `4 - Proliferate_DR`.
+Dataset can be freely accesed at :"https://www.kaggle.com/competitions/aptos2019-blindness-detection/data"
 
 ## Model Architecture
 
